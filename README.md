@@ -13,7 +13,7 @@
 ## Backstory
 
 ---
-We were on class 9, my friend Azfar Labib gave me this idea of creating a news portal, on which we will get news from different news sites.
+Random day in 2020, my friend Azfar Labib gave me this idea of creating a news portal, on which we will get news from different news sites.
 
 He had the idea, I had the skills(somewhat). So, I started working on it. Spent late nights trying out Python, Ruby(yes, Ruby, I started learning Ruby for it) scraping sites. But I was getting frustrated.
 
